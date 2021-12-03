@@ -2,11 +2,11 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/miatoll" name="PixelExperience-Devices/device_xiaomi_miatoll.git" remote="github" revision="eleven" />
- <project path="device/xiaomi/sm6250-common" name="PixelExperience-Devices/device_xiaomi_sm6250-common.git" remote="github" revision="eleven" />
- <project path="vendor/xiaomi/miatoll" name="ArrowOS-Devices/android_vendor_xiaomi_miatoll.git" remote="github" revision="arrow-11.0" />
- <project path="vendor/xiaomi/sm6250-common" name="ArrowOS-Devices/android_vendor_xiaomi_sm6250-common.git" remote="github" revision="arrow-11.0" />
- <project path="kernel/xiaomi/sm6250" name="PixelExperience-Devices/kernel_xiaomi_sm6250.git" remote="github" revision="eleven" />
+ <project path="device/xiaomi/miatoll" name="akshat942/device_xiaomi_miatoll.git" remote="github" revision="twelve" />
+ <project path="device/xiaomi/sm6250-common" name="tusharind007/device_xiaomi_sm6250-common.git" remote="github" revision="twelve" />
+ <project path="vendor/xiaomi/miatoll" name="ProjectElixir-Devices/vendor_xiaomi_miatoll.git" remote="github" revision="twelve" />
+ <project path="vendor/xiaomi/sm6250-common" name="tusharind007/vendor_xiaomi_sm6250-common.git" remote="github" revision="twelve" />
+ <project path="kernel/xiaomi/sm6250" name="ProjectElixir-Devices/kernel_xiaomi_sm6250.git" remote="github" revision="twelve" />
  
  
 </manifest>
