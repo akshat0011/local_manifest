@@ -2,11 +2,11 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/miatoll" name="akshat942/device_xiaomi_miatoll.git" remote="github" revision="twelve" />
- <project path="device/xiaomi/sm6250-common" name="tusharind007/device_xiaomi_sm6250-common.git" remote="github" revision="twelve" />
- <project path="vendor/xiaomi/miatoll" name="ProjectElixir-Devices/vendor_xiaomi_miatoll.git" remote="github" revision="twelve" />
- <project path="vendor/xiaomi/sm6250-common" name="tusharind007/vendor_xiaomi_sm6250-common.git" remote="github" revision="twelve" />
- <project path="kernel/xiaomi/sm6250" name="ProjectElixir-Devices/kernel_xiaomi_sm6250.git" remote="github" revision="twelve" />
+ <project path="device/xiaomi/rosemary" name="akshat942/device_xiaomi_rosemary.git" remote="github" revision="master" />
+ <project path="vendor/xiaomi/rosemary" name="akshat942/vendor_xiaomi_rosemary.git" remote="github" revision="master" />
+ <project path="kernel/xiaomi/rosemary" name="akshat942/kernel_xiaomi_rosemary.git" remote="github" revision="R" />
+ <project path="device/mediatek/common" name="PixelExperience/device_mediatek_common.git" remote="github" revision="eleven" />
+ <project path="device/mediatek/sepolicy_vndr"PixelExperience/device_mediatek_sepolicy_vndr.git" remote="github" revision="eleven" />
  
  
 </manifest>
