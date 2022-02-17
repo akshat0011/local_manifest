@@ -2,11 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/rosemary" name="akshat942/device_xiaomi_rosemary.git" remote="github" revision="master" />
- <project path="vendor/xiaomi/rosemary" name="akshat942/vendor_xiaomi_rosemary.git" remote="github" revision="master" />
- <project path="kernel/xiaomi/rosemary" name="akshat942/kernel_xiaomi_rosemary.git" remote="github" revision="R" />
- <project path="device/mediatek/common" name="PixelExperience/device_mediatek_common.git" remote="github" revision="eleven" />
- <project path="device/mediatek/sepolicy_vndr"PixelExperience/device_mediatek_sepolicy_vndr.git" remote="github" revision="eleven" />
- 
+ <project path="device/redmi/rosemary" name="RedmiNote10S/android_device_redmi_rosemary.git" remote="github" revision="lineage-18.1-clean" />
+ <project path="kernel/redmi/rosemary" name="RedmiNote10S/android_kernel_redmi_rosemary.git" remote="github" revision="lineage-18.1" />
+
  
 </manifest>
