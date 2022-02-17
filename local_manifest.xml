@@ -5,5 +5,4 @@
  <project path="device/redmi/rosemary" name="RedmiNote10S/android_device_redmi_rosemary.git" remote="github" revision="lineage-18.1-clean" />
  <project path="kernel/redmi/rosemary" name="RedmiNote10S/android_kernel_redmi_rosemary.git" remote="github" revision="lineage-18.1" />
 
- 
-</manifest>
+ </manifest>
