@@ -2,7 +2,10 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/redmi/rosemary" name="RedmiNote10S/android_device_redmi_rosemary.git" remote="github" revision="lineage-18.1-clean" />
- <project path="kernel/redmi/rosemary" name="RedmiNote10S/android_kernel_redmi_rosemary.git" remote="github" revision="lineage-18.1" />
+ <project path="device/xiaomi/miatoll" name="ArrowOS-Devices/android_device_xiaomi_miatoll.git" remote="github" revision="arrow-11.0" />
+ <project path="kernel/xiaomi/sm6250" name="ArrowOS-Devices/android_kernel_xiaomi_sm6250.git" remote="github" revision="arrow-11.0" />
+ <project path="device/xiaomi/sm6250-common" name="ArrowOS-Devices/android_device_xiaomi_sm6250-common.git" remote="github" revision="arrow-11.0" />
+ <project path="vendor/xiaomi/sm6250-common" name="ArrowOS-Devices/android_vendor_xiaomi_sm6250-common.git" remote="github" revision="arrow-11.0" />
+ <project path="vendor/xiaomi/miatoll" name="ArrowOS-Devices/android_vendor_xiaomi_miatoll.git" remote="github" revision="arrow-11.0" />
 
  </manifest>
